@@ -3,11 +3,12 @@
 # Roll No. 102217141
 # Result Table
 
-![Result Table](https://github.com/user-attachments/assets/bf510641-7627-48d7-86d1-e65a270ef154)
+![image](https://github.com/user-attachments/assets/584f8cbf-d31c-40eb-9797-6e3da437d20c)
 
 # Result Graph
 
-![image](https://github.com/user-attachments/assets/a21543c0-1fb2-4c9a-95d5-ed6a42f6f6c8)
+![image](https://github.com/user-attachments/assets/5b7e8560-b614-4afe-95eb-411627c2fb74)
+
 
 # Overview
 
